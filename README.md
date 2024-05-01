@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Logophilea
+- 👀 I’m interested in python
+- 🌱 I’m currently learning cryptography
+- 📫 How to reach me andreavigfus4@gmail.com
